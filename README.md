@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Manideep Botsa</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manideepBotsaa" alt="ManideepBotsaa" /></a> </p>
 <img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAd/developer.gif" alt="Developer GIF" align="right" width="300"/>
 
 - 🌱 I’m currently learning **Data Science** and **java with Dsa**
